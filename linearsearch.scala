@@ -2,7 +2,7 @@ package com.rockthejvm
 import scala.util.control.Breaks._
 
 object linearsearch extends App{
-  var Arr = Array(11, 12, 13, 14, 15)
+  var Arr = Array(1,2,3,4,5,6,7,8,9,10)
   var i: Int = 0
   var item: Int = 0
   var position: Int = 0
