@@ -1,13 +1,14 @@
 # scalaTask
 
-To clone a repository from Github, follow these steps:
 
-1. Go to the Github website and find the repository you want to clone.
-2. Click on the "Code" button, which is located near the top right of the repository page.
-3. Select "HTTPS" or "SSH" from the dropdown menu, depending on which method you prefer to use for authentication.
-4. Copy the URL provided.
-5. Open your terminal or command prompt on your local machine.
-6. Navigate to the directory where you want to clone the repository.
-7. Use the command "git clone [repository URL]" to clone the repository to your local machine.
+To get started with this project, you can clone the repository using the following command: 
+git clone https://github.com/<username>/<repository-name>.git
 
+
+To run a Scala file using the command line or terminal, follow these steps:
+
+1. Open a terminal or command prompt on your system.
+2. Navigate to the directory where your Scala file is located using the cd command.
+3. Compile the Scala file using the Scala compiler by running the following command: scalac <filename>.scala
+4. Run the compiled Scala program by executing the following command: scala <classname>
 
